@@ -21,8 +21,12 @@
     <body>
         <script src="js/remark-0.13.min.js"></script>
         <script>
-			$.get('slides.md', function(data){var slideshow = remark.create({source: data});});
-			
+			$.get('slides.md', function(data){
+				var slideshow = remark.create({
+					source: data,
+					ratio: '16:9'
+				});
+			});
         </script>
     </body>
 </html>
