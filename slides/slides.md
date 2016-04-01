@@ -16,6 +16,8 @@ Rob van Loon
 - Waarom ?
 - Hoe ?
 
+*TODO: voeg leuk plaatje toe*
+
 ---
 
 # Wie ?
@@ -24,6 +26,26 @@ Rob van Loon
 
 Wie ben ik ?
 
+*TODO: voeg foto toe en een paar keywords over mijzelf*
+
 --
 
 Wie zijn jullie ?
+
+- Voorstelronde
+
+
+---
+
+# Wat?
+
+Wat gaan we in deze cursus doen?
+
+--
+
+- GIT
+- GIT als versiebeheersysteem
+- GIT als code delen *(of meer dan alleen code)* <-- zoals deze curus
+- GIT om een bijdrage te leveren
+	* code
+	* tickets en bugreports
