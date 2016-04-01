@@ -5,10 +5,15 @@
 Hieronder staat een ruwe indeling voor de presentatie.
 
 Slide 1: Title slide
+
 Slide 2: Inhoud
+
 Slide 3: Voorstellen
+
 Slide 4: Inhoud - specifieker
+
 Slide 5: Wat is GIT
+
     - versiebeheer [vertel over hele rudimentair versiebeheer, belang van versiebeheer]
         * bijhouden geschiedenis / opbouw van versies
         * wie heeft wat gedaan [blame]
@@ -18,11 +23,15 @@ Slide 5: Wat is GIT
     - samenwerken
         * geditribueerd systeem
         * groei van code zien
+
 Slide 6: Alternatieven
+
     - losse directories
     - Mercurial, Subversion
     - Source Safe, Team Foundation
+
 Slide 7: REPO
+
     - lokaal
     - gedeelde netwerkschijf
     - GitHub
