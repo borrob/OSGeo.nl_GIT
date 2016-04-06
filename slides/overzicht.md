@@ -69,7 +69,7 @@ Slide: Termen (elk aparte slide)
     - pull and push (origin, upstream)
     - merge (cherrypick)
     - tag
-    - remotes
+    - remotes (distributed)
 
 Slide: Hoe gebruiken
 
@@ -92,6 +92,15 @@ Slide: workflow
     - branching: [nvie](http://nvie.com/posts/a-successful-git-branching-model/)
     - not branching: [Dziuba](http://widgetsandshit.com/teddziuba/2011/12/process.html)
 
+Slide: voorbeelden (live)
+
+    - init
+    - commit
+    - branch
+    - push
+    - pull
+    - merge
+
 Slide: Cloud
 
     - Voordelen:
@@ -106,10 +115,36 @@ Slide: Cloud
     - github met gh-pages
     - readthedocs, gitbook
 
+**EXTRA**
+
+Slide: bug, issues
+
+    - issuetracker (github / JIRA / ...)
+    - discussie
+    - kanban
+
+Slide: bug indienen
+
+    - wat
+    - versie
+    - wat heb je al gedaan
+
+Slide: kanban / scrum
+
+    - visualiseer
+    - delen met anderen
+    - backlog - todo - in progress - test - done
+
 Slide: Do/Dont
 
     - ...
 
+Slide: Samenvatting
+
+    - versiebeheer
+    - gedistribueerd
+    - samenwerken / delen
+    - workflow
 ...
 *TODO: aanvullen*
 ...
@@ -121,6 +156,7 @@ Losse termen en ideeen:
 - GUI vs CLI
 - enkel aanvullingen (ook verwijderen is aanvullen)
 - squash vs sausage making (merge en rebase)
+- gh-pages, ...
 
 # E-mails #
 
