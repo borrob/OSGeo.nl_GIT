@@ -33,12 +33,6 @@ Slide: Wat is GIT
         * gedistribueerd systeem
         * groei van code zien
 
-Slide: Alternatieven
-
-    - losse directories
-    - Mercurial, Subversion
-    - Source Safe, Team Foundation
-
 Slide: Voor wie en voor wat?
 
     - source code
@@ -47,7 +41,13 @@ Slide: Voor wie en voor wat?
     - documenten
     - boeken? --> [gitbook](https://www.gitbook.com)
 
-Slide: REPO
+Slide: side-step: Alternatieven
+
+    - losse directories
+    - Mercurial, Subversion
+    - Source Safe, Team Foundation
+
+Slide: REPO: waar zet ik de code (als eerste stap)
 
     - lokaal
     - gedeelde netwerkschijf
@@ -60,9 +60,11 @@ Slide: REPO
         - repo
         - lokaal
 
+Brug maken van repo naar technieken.
+
 **TECHNIEK**
 
-Slide: Termen (elk aparte slide)
+Slide: Termen (elk op aparte slide(s), met uitleg)
 
     - branch (master, gh-pages, dev, release, hotfix)
     - commit (sha)
@@ -71,7 +73,7 @@ Slide: Termen (elk aparte slide)
     - tag
     - remotes (distributed)
 
-Slide: Hoe gebruiken
+Slide: Gebruiken voor...
 
     - code
     - platte tekst
@@ -79,6 +81,7 @@ Slide: Hoe gebruiken
         - restructured text
         - latex
         - html
+    - maar ook 'normale' bestanden
 
 Slide: versiebeheer
 
@@ -115,7 +118,7 @@ Slide: Cloud
     - github met gh-pages
     - readthedocs, gitbook
 
-**EXTRA**
+**EXTRA: bugreports**
 
 Slide: bug, issues
 
@@ -126,10 +129,11 @@ Slide: bug, issues
 Slide: bug indienen
 
     - wat
-    - versie
+    - versie en details
+    - errormessage
     - wat heb je al gedaan
 
-Slide: kanban / scrum
+Slide: kanban / scrum: progtools
 
     - visualiseer
     - delen met anderen
@@ -145,22 +149,21 @@ Slide: Samenvatting
     - gedistribueerd
     - samenwerken / delen
     - workflow
-...
-*TODO: aanvullen*
-...
+
+...*TODO: aanvullen*...
 
 Losse termen en ideeen:
 
-- reference sha of ticket nummer --> automatische link
-- branch structuur
-- GUI vs CLI
-- enkel aanvullingen (ook verwijderen is aanvullen)
-- squash vs sausage making (merge en rebase)
-- gh-pages, ...
+    - reference sha of ticket nummer --> automatische link
+    - branch structuur
+    - GUI vs CLI
+    - enkel aanvullingen (ook verwijderen is aanvullen)
+    - squash vs sausage making (merge en rebase)
+    - gh-pages, ...
 
 # E-mails #
 
-Van de OSGeo.nl lijst zijn een aantal suggestie binnen gekomen over de cursus. De belangrijkste punten:
+Van de OSGeo.nl lijst zijn een aantal suggesties binnen gekomen over de cursus. De belangrijkste punten:
 
 - wat is versiebeheer en waarom is het belangrijk ?
 - wat is GIT (en wat zijn de alternatieven) ?
