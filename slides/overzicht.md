@@ -160,6 +160,9 @@ Losse termen en ideeen:
     - enkel aanvullingen (ook verwijderen is aanvullen)
     - squash vs sausage making (merge en rebase)
     - gh-pages, ...
+    - GeoGIT:
+		- GeoGIG
+		- GeoJSON op github
 
 # E-mails #
 
