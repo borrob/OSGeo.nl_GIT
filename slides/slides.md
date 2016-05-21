@@ -135,9 +135,9 @@ samenwerken
 - Lokaal
 - Push and pull
 
-**TODO: ** mooi plaatje en uitleggen
-
-**TODO: ** Brug: van push/pull naar techniek
+**TODO:** mooi plaatje en uitleggen: centrale repo, locale, push
+**TODO:** uitleggen remotes
+**TODO:** Brug: van push/pull naar techniek
 
 ---
 
@@ -147,29 +147,117 @@ class: center, middle
 
 ---
 
-# Terminologie
+# Terminologie (a.k.a. Talk the talk)
 
 - branch (master, gh-pages, dev, release, hotfix)
 - commit (sha)
 - pull and push (origin, upstream)
 - merge (cherrypick)
-- tag
 - remotes (distributed)
+- tag
+- log
 
 ---
 
 # Branch
 
-- bla
+*Zelfde code, maar net even anders...*
+
+- Gescheiden houden van OTAP straat.
+- Snel en makkelijk schakelen (bijv. van implementatie feature naar bugfix)
+- "Even wat uitproberen" zonder schade toe te brengen
 
 ---
 
 # Commit
 
-- bla
+Kleinste, zelfstandige verandering
+
+- werkende functie
+- fix typo
+- werkende unit-test
+
+Commit: wegschrijven van de delta's ten opzichte van de vorige commit (dus ook verwijderen is toevoegen).
+
+Elke commit krijgt een unieke sha.
+
+Denk ook aan het schrijven van een goede commit-message.
+
+---
+
+# Commit message
+
+1e regel: Header / samenvatting
+
+2e regel: Leeg
+
+-e regel: Beschrijvende tekst
+
+Schrijf een zinvolle commit-message (je bent jezelf later dankbaar).
 
 ---
 
 # Push en pull
 
-- bla
+- Pull: geef mij de laatste versie van de repo en merge met mijn versie
+- Push: mijn versie wegschrijven naar de server
+
+Push alleen OK als gebasseerd op de laatste versie
+
+*TODO:* brug maken: als niet laatste versie, dan mergen.
+
+---
+
+# Merge
+
+Het samenvoegen van twee branches:
+- bugfix in prod
+- feature branch in dev
+
+Maar ook:
+- remote met locale versie
+
+Let op: merge conflits
+
+---
+
+# Cherrypick
+
+TODO: leuk plaatje
+
+"Ik vind die ene commit in die andere branch wel leuk, maar de rest hoeft ik niet."
+
+---
+
+# Rebase
+
+Please don't
+
+--
+
+Zoek de gemeenschappelijke voorouder en pas de delta's van de ene branch toe op de andere.
+
+---
+
+# Remotes
+
+Origin: de originele repo (met schrijfrechten)
+
+Upstream: de origele repo waar jij een clone van hebt gemaakt (zonder schrijfrechten)
+
+---
+
+# Tag
+
+Als je door alle commits de bomen in het bos niet meer ziet: hang er een label aan.
+
+---
+
+# Log
+
+Geeft een overzicht van alle commits.
+
+Opties:
+- alle branches
+- oneline of gehele commit-message
+- grafiek

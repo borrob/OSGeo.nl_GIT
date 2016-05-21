@@ -72,6 +72,7 @@ Slide: Termen (elk op aparte slide(s), met uitleg)
     - merge (cherrypick)
     - tag
     - remotes (distributed)
+    - log
 
 Slide: Gebruiken voor...
 
@@ -163,6 +164,8 @@ Losse termen en ideeen:
     - GeoGIT:
 		- GeoGIG
 		- GeoJSON op github
+	- merge conflicts (>>> <<<)
+	- tools: diff, mergetool
 
 # E-mails #
 
