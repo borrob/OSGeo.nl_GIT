@@ -268,3 +268,43 @@ Opties:
 # Blame
 
 Niet zo zeer om de schuld af te schuiven, maar wel goed om te achterhalen wie wat wanneer heeft gedaan.
+---
+
+class: center, middle
+
+# Cloud
+
+---
+
+# Voordelen
+
+- open (als je wilt)
+- delen
+- samenwerken
+- commit-hooks
+- online editing
+- issues en tickets
+- overzicht branches, commits, merges
+
+- readthedocs, gitbook
+
+---
+
+# Hosts
+
+GitHub:
+- www.github.com
+- gh-pages
+- erg populair
+
+Bitbucket:
+- www.bitbucket.com
+- JIRA
+- private repositories
+
+GitLab:
+- www.gitlab.com
+- GitLab CE: open source
+- host your own
+
+...
