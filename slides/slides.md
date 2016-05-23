@@ -308,3 +308,37 @@ GitLab:
 - host your own
 
 ...
+
+---
+
+class: center, middle
+
+# Extra's
+
+---
+
+# Kanban / Scrum
+
+- Visualiseer
+- Deel met anderen
+- Feedback
+
+- backlog -> todo -> in progress -> test -> done
+- In de cloud: vaak ingebouwd
+
+---
+
+# Issuetracker
+
+- issues, bugs, wensen
+- discussies
+
+---
+
+# Bugs
+
+- wat gaat er precies mis
+- wat is het verwachte resultaat, wat is het daadwerkelijke resultaat
+- welke versie (en welke versie van OS, libraries, ...)
+- minimale stappen om het te reproduceren
+- foutmeldingen / logbestanden
