@@ -156,6 +156,7 @@ class: center, middle
 - remotes (distributed)
 - tag
 - log
+- blame
 
 ---
 
@@ -229,7 +230,7 @@ TODO: leuk plaatje
 
 ---
 
-# Rebase
+# Rebase / Squash
 
 Please don't
 
@@ -261,3 +262,9 @@ Opties:
 - alle branches
 - oneline of gehele commit-message
 - grafiek
+
+---
+
+# Blame
+
+Niet zo zeer om de schuld af te schuiven, maar wel goed om te achterhalen wie wat wanneer heeft gedaan.
