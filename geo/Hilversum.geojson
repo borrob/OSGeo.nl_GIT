@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "titel": "Vijver" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 140159.129320897947764, 471222.165695420757402 ] ] } },
+{ "type": "Feature", "properties": { "id": 1, "titel": "Dudok" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 140129.935279040015303, 471265.293257256387733 ] ] } }
+]
+}
