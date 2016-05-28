@@ -197,6 +197,17 @@ Schrijf een zinvolle commit-message (je bent jezelf later dankbaar).
 
 ---
 
+# Vóór de commit
+
+git diff <file> -- toont de wijzigingen in die file sinds de laatste commit
+
+
+Voor wijzigingen in de hele repo:
+
+    git status
+
+---
+
 # Push en pull
 
 - Pull: geef mij de laatste versie van de repo en merge met mijn versie
