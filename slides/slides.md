@@ -22,8 +22,6 @@ Rob van Loon
 
 # Wie ?
 
---
-
 Wie ben ik ?
 
 *TODO: voeg foto toe en een paar keywords over mijzelf*
@@ -82,7 +80,7 @@ samenwerken
 
 ---
 
-# Voor wie en voor wat ?
+# Voor wat ?
 
 - source code
 
@@ -105,6 +103,7 @@ samenwerken
 --
 
     - [gitbook](https://www.gitbook.com)
+    - [Read the docs](https://readthedocs.org)
 
 ---
 
@@ -147,7 +146,7 @@ class: center, middle
 
 ---
 
-# Terminologie (a.k.a. Talk the talk)
+# Terminologie (a.k.a. talk the talk)
 
 - branch (master, gh-pages, dev, release, hotfix)
 - commit (sha)
@@ -180,7 +179,7 @@ Kleinste, zelfstandige verandering
 
 Commit: wegschrijven van de delta's ten opzichte van de vorige commit (dus ook verwijderen is toevoegen).
 
-Elke commit krijgt een unieke sha.
+Elke commit krijgt een unieke sha (handig als referentie).
 
 Denk ook aan het schrijven van een goede commit-message.
 
@@ -251,6 +250,10 @@ Upstream: de origele repo waar jij een clone van hebt gemaakt (zonder schrijfrec
 # Tag
 
 Als je door alle commits de bomen in het bos niet meer ziet: hang er een label aan.
+
+Gebruik voor:
+- aanwijzen release
+- opgeven versienummer (git describe)
 
 ---
 
