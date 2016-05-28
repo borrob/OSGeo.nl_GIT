@@ -358,3 +358,17 @@ class: center, middle
 - welke versie (en welke versie van OS, libraries, ...)
 - minimale stappen om het te reproduceren
 - foutmeldingen / logbestanden
+
+---
+
+class: center, middle
+
+# GEO
+
+---
+
+Git is niet super met binary files --> geen shapes
+
+--
+
+Wél met tekstbestanden -- WKT, GML, GeoJSON
