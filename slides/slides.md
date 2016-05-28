@@ -135,7 +135,9 @@ samenwerken
 - Push and pull
 
 **TODO:** mooi plaatje en uitleggen: centrale repo, locale, push
+
 **TODO:** uitleggen remotes
+
 **TODO:** Brug: van push/pull naar techniek
 
 ---
