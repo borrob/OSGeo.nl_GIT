@@ -367,8 +367,20 @@ class: center, middle
 
 ---
 
+# Git en GEO
+
 Git is niet super met binary files --> geen shapes
 
 --
 
 Wél met tekstbestanden -- WKT, GML, GeoJSON
+
+---
+
+# Github
+
+Github ondersteunt geojson
+
+    - leaflet
+    - openstreetmap
+    - WGS84
