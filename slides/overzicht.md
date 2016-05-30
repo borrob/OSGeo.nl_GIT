@@ -144,6 +144,8 @@ Slide: Do/Dont
 
     - ...
 
+Praktijk: wat gaan doen
+
 Slide: Samenvatting
 
     - versiebeheer

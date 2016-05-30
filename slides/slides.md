@@ -288,6 +288,27 @@ Niet zo zeer om de schuld af te schuiven, maar wel goed om te achterhalen wie wa
 
 class: center, middle
 
+# Workflow
+
+---
+
+# Vanaf begin
+
+1. git init
+2. add .gitignore
+3. bestanden toevoegen
+4. git add .
+5. git commit
+6. [repeat]
+7. git push
+8. branch, merge, ...
+9. tag
+10. release
+
+---
+
+class: center, middle
+
 # Cloud
 
 ---
