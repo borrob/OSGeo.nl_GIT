@@ -375,6 +375,10 @@ Git is niet super met binary files --> geen shapes
 
 Wél met tekstbestanden -- WKT, GML, GeoJSON
 
+--
+
+Alternatief: GeoGig: shp, geojson, geopkg, sl, sqlserver, oracle
+
 ---
 
 # Github
