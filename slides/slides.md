@@ -409,3 +409,19 @@ Github ondersteunt geojson
     - leaflet
     - openstreetmap
     - WGS84
+
+class:center, midle
+
+# Aan de slag
+
+---
+
+# Hands on (a.k.a walk the walk)
+
+1. Installeer GIT
+2. Clone een repo (deze ?)
+3. Doe een aanpassing
+4. Commit
+5. Creeer een branch
+6. Doe een aanpassing + commit
+7. Merge
