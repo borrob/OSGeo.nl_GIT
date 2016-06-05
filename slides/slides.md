@@ -134,11 +134,71 @@ samenwerken
 - Lokaal
 - Push and pull
 
-**TODO:** mooi plaatje en uitleggen: centrale repo, locale, push
-
 **TODO:** uitleggen remotes
 
 **TODO:** Brug: van push/pull naar techniek
+
+---
+
+# Repo
+
+![fig 1](img/distributed_fig01.jpg)
+
+TODO: fix center
+
+---
+
+# Fetch
+
+![fig 2](img/distributed_fig02.jpg)
+
+---
+
+# Checkout
+
+![fig 3](img/distributed_fig03.jpg)
+
+---
+
+# Branches
+
+![fig 4](img/distributed_fig04.jpg)
+
+---
+
+# Stage en commit (1)
+
+![fig 5](img/distributed_fig05.jpg)
+
+---
+
+# Stage en commit (2)
+
+![fig 6](img/distributed_fig06.jpg)
+
+---
+
+# Commit van teamleden
+
+![fig 7](img/distributed_fig07.jpg)
+
+---
+
+# Fetch
+
+![fig 8](img/distributed_fig08.jpg)
+
+---
+
+# Merge
+
+![fig 9](img/distributed_fig09.jpg)
+
+---
+
+# Push
+
+![fig 3](img/distributed_fig10.jpg)
 
 ---
 
