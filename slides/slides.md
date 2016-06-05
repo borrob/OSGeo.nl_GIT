@@ -410,7 +410,11 @@ Github ondersteunt geojson
     - openstreetmap
     - WGS84
 
-class:center, midle
+TODO: screenshot
+
+---
+
+class: center, middle
 
 # Aan de slag
 
