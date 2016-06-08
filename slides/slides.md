@@ -18,6 +18,7 @@ Rob van Loon
 
 *TODO: voeg leuk plaatje toe*
 
+*TODO: algmeen: meer presenter notes*
 ---
 
 # Wie ?
@@ -48,6 +49,7 @@ Wat gaan we in deze cursus doen?
 	* tickets en bugreports
 
 **TODO: ** aanvullen met de inhoud
+**TODO: ** slide over wat leer je / kun je na deze cursus
 
 ---
 
@@ -134,8 +136,6 @@ samenwerken
 - Lokaal
 - Push and pull
 
-**TODO:** Brug: van push/pull naar techniek
-
 ---
 
 # Repo
@@ -215,6 +215,10 @@ TODO: fix center
 # Github: fork en pull request
 
 ![fig 13](img/distributed_fig13.jpg)
+
+???
+
+Dit was het overzicht van de verschillende termen en werkwijze: nu meer over de achterliggende techniek
 
 ---
 
