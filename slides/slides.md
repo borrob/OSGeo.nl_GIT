@@ -134,8 +134,6 @@ samenwerken
 - Lokaal
 - Push and pull
 
-**TODO:** uitleggen remotes
-
 **TODO:** Brug: van push/pull naar techniek
 
 ---
@@ -198,7 +196,25 @@ TODO: fix center
 
 # Push
 
-![fig 3](img/distributed_fig10.jpg)
+![fig 10](img/distributed_fig10.jpg)
+
+---
+
+# Remotes- Origin: schrijfrechten
+
+![fig 11](img/distributed_fig11.jpg)
+
+---
+
+# Remotes- Upstream: leesrechten
+
+![fig 12](img/distributed_fig12.jpg)
+
+---
+
+# Github: fork en pull request
+
+![fig 13](img/distributed_fig13.jpg)
 
 ---
 
