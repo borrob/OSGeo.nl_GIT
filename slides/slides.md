@@ -297,7 +297,13 @@ Voor wijzigingen in de hele repo:
 
 Push alleen OK als gebasseerd op de laatste versie
 
-*TODO:* brug maken: als niet laatste versie, dan mergen.
+???
+
+Push: git checkt of de delta is tov de sha op server
+
+Is server nieuwer? Dan eerst pull en een local merge doorvoeren.
+
+Merge? -->
 
 ---
 
