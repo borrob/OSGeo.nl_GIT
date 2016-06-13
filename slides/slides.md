@@ -16,7 +16,11 @@ Rob van Loon
 - Waarom ?
 - Hoe ?
 
-*TODO: voeg leuk plaatje toe*
+<img src="http://imgs.xkcd.com/comics/git.png" style="vertical-align:top;position:relative;top:-100px;float:right;"/>
+
+Cartoon van: <a href="https://xkcd.com/1597/">xkcd</a>, Creative Commons Licentie
+
+*TODO* ref plaatje wat beter opmaken
 
 *TODO: algmeen: meer presenter notes*
 ---
