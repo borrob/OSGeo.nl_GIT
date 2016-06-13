@@ -281,7 +281,7 @@ Schrijf een zinvolle commit-message (je bent jezelf later dankbaar).
 
 # Vóór de commit
 
-git diff <file> -- toont de wijzigingen in die file sinds de laatste commit
+`git diff <file>` -- toont de wijzigingen in die file sinds de laatste commit
 
 
 Voor wijzigingen in de hele repo:
