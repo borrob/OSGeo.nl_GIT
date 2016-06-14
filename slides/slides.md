@@ -20,8 +20,6 @@ Rob van Loon
 
 .footnote[Cartoon van: <a href="https://xkcd.com/1597/">xkcd</a>, Creative Commons Licentie]
 
-*TODO* ref plaatje wat beter opmaken
-
 *TODO: algmeen: meer presenter notes*
 ---
 
@@ -53,6 +51,7 @@ Wat gaan we in deze cursus doen?
 	* tickets en bugreports
 
 **TODO: ** aanvullen met de inhoud
+
 **TODO: ** slide over wat leer je / kun je na deze cursus
 
 ---
@@ -144,81 +143,79 @@ samenwerken
 
 # Repo
 
-![fig 1](img/distributed_fig01.jpg)
-
-TODO: fix center
+.center[.middle[![fig 1](img/distributed_fig01.jpg)]]
 
 ---
 
 # Fetch
 
-![fig 2](img/distributed_fig02.jpg)
+.center[.middle[![fig 2](img/distributed_fig02.jpg)]]
 
 ---
 
 # Checkout
 
-![fig 3](img/distributed_fig03.jpg)
+.center[.middle[![fig 3](img/distributed_fig03.jpg)]]
 
 ---
 
 # Branches
 
-![fig 4](img/distributed_fig04.jpg)
+.center[.middle[![fig 4](img/distributed_fig04.jpg)]]
 
 ---
 
 # Stage en commit (1)
 
-![fig 5](img/distributed_fig05.jpg)
+.center[.middle[![fig 5](img/distributed_fig05.jpg)]]
 
 ---
 
 # Stage en commit (2)
 
-![fig 6](img/distributed_fig06.jpg)
+.center[.middle[![fig 6](img/distributed_fig06.jpg)]]
 
 ---
 
 # Commit van teamleden
 
-![fig 7](img/distributed_fig07.jpg)
+.center[.middle[![fig 7](img/distributed_fig07.jpg)]]
 
 ---
 
 # Fetch
 
-![fig 8](img/distributed_fig08.jpg)
+.center[.middle[![fig 8](img/distributed_fig08.jpg)]]
 
 ---
 
 # Merge
 
-![fig 9](img/distributed_fig09.jpg)
+.center[.middle[![fig 9](img/distributed_fig09.jpg)]]
 
 ---
 
 # Push
 
-![fig 10](img/distributed_fig10.jpg)
+.center[.middle[![fig 10](img/distributed_fig10.jpg)]]
 
 ---
 
 # Remotes- Origin: schrijfrechten
 
-![fig 11](img/distributed_fig11.jpg)
+.center[.middle[![fig 11](img/distributed_fig11.jpg)]]
 
 ---
 
 # Remotes- Upstream: leesrechten
 
-![fig 12](img/distributed_fig12.jpg)
+.center[.middle[![fig 12](img/distributed_fig12.jpg)]]
 
 ---
 
 # Github: fork en pull request
 
-![fig 13](img/distributed_fig13.jpg)
+.center[.middle[![fig 13](img/distributed_fig13.jpg)]]
 
 ???
 
