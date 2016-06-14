@@ -483,13 +483,9 @@ Alternatief: GeoGig: shp, geojson, geopkg, sl, sqlserver, oracle
 
 # Github
 
-Github ondersteunt geojson
+Github ondersteunt geojson (WGS84) via leaflet en OSM ondergrond.
 
-    - leaflet
-    - openstreetmap
-    - WGS84
-
-TODO: screenshot
+.center[.middle[<img src="img/geo.jpg" style="width:70%"/>]]
 
 ---
 
