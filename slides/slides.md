@@ -505,15 +505,15 @@ class: center, middle
 
 # Git en GEO
 
-Git is niet super met binary files --> geen shapes
+- Git is niet super met binary files --> geen shapes
 
 --
 
-Wél met tekstbestanden -- WKT, GML, GeoJSON
+- Wél met tekstbestanden - WKT, GML, GeoJSON
 
 --
 
-Alternatief: GeoGig: shp, geojson, geopkg, sl, sqlserver, oracle
+- Alternatief: GeoGig: shp, geojson, geopkg, sl, sqlserver, oracle
 
 ---
 
