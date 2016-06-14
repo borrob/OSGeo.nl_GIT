@@ -508,3 +508,56 @@ class: center, middle
 5. Creeer een branch
 6. Doe een aanpassing + commit
 7. Merge
+
+---
+
+# Overzicht commando's
+
+
+.middle[.center[<img src="http://imgs.xkcd.com/comics/git.png"/>]]
+
+.middle[.footnote[Cartoon van: <a href="https://xkcd.com/1597/">xkcd</a>, Creative Commons Licentie]]
+
+---
+
+# Overzicht commando's (1)
+
+`fetch` - haal de laatste wijzigingen op
+
+`merge` - voeg samen met ...
+
+`pull` - `fetch` + `merge`
+
+`push` - zet wijzigingen door naar de host repo
+
+`clone` - dowload repo
+
+`init` - begin een nieuwe repo
+
+`add` - voeg bestanden toe aan de repo
+
+`commit` - voeg wijzigingen toe aan de repo
+
+`checkout` - ga naar deze branch
+
+`checkout -b` - creeër een nieuwe branch + checkout
+
+---
+
+# Overzicht commando's (2)
+
+`tag <<tag>>` - voeg een tag toe
+
+`stash` - zet mijn wijzigingen even tijdelijk opzij
+
+`pop` - zet mijn wijzigingen weer terug
+
+`log` - toon de geschiedenis
+
+`log --all --graph --oneline` - toon alle wijzigingen in een grafiekformaat
+
+`blame <<file>>` - wie heeft welke regel gesschreven
+
+`show <<sha>>` - laat de commit message zien
+
+`status` - geef een status overzicht`
