@@ -118,6 +118,26 @@ samenwerken
 - Mercurial, Subversion
 - Source Safe, Team Foundation
 
+???
+
+De losse directories zijn natuurlijk meest gebruikt, maar ...
+
+---
+
+Alternatieven ?
+
+.middle[.center[<img src="http://www.commitstrip.com/wp-content/uploads/2013/11/Strips-_Old-650-finalfinal1.jpg"/>]]
+
+.footnote[Cartoon van: <a href="http://www.commitstrip.com/en/2013/11/05/git-svn-ou/">Commitstrip</a>]
+
+---
+
+Alternatieven ?
+
+.middle[.center[<img src="http://s3.media.squarespace.com/production/2129687/19317774/.a/6a00d8341d3df553ef017c330f2ae8970b-pi" style="width:37%;"/>]]
+
+.footnote[Cartoon van: <a href="http://geek-and-poke.com/geekandpoke/2012/11/3/simply-explained.html">Geek and poke</a>, Creative Commons Licentie]
+
 ---
 
 # REPO
@@ -268,6 +288,14 @@ Denk ook aan het schrijven van een goede commit-message.
 
 ---
 
+# Sha
+
+.middle[.center[<img src="http://static1.squarespace.com/static/518f5d62e4b075248d6a3f90/t/52bbec09e4b0749228bf8599/1388047372904/git-bingo.jpg?format=300w" style="width:37%"/>]]
+
+.footnote[Cartoon van: <a href="http://geek-and-poke.com/geekandpoke/2013/12/26/games-for-the-real-geeks">Geek and poke</a>, Creative Commons Licentie]
+
+---
+
 # Commit message
 
 1e regel: Header / samenvatting
@@ -277,6 +305,14 @@ Denk ook aan het schrijven van een goede commit-message.
 -e regel: Beschrijvende tekst
 
 Schrijf een zinvolle commit-message (je bent jezelf later dankbaar).
+
+---
+
+# Commit message
+
+.middle[.center[<img src="http://imgs.xkcd.com/comics/git_commit.png"/>]]
+
+.footnote[Cartoon: <a href="https://xkcd.com/1296/">xkcd</a>: Creative Commons Licentie]
 
 ---
 
