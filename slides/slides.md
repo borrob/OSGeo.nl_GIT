@@ -339,14 +339,6 @@ Zoek de gemeenschappelijke voorouder en pas de delta's van de ene branch toe op 
 
 ---
 
-# Remotes
-
-Origin: de originele repo (met schrijfrechten)
-
-Upstream: de origele repo waar jij een clone van hebt gemaakt (zonder schrijfrechten)
-
----
-
 # Tag
 
 Als je door alle commits de bomen in het bos niet meer ziet: hang er een label aan.
