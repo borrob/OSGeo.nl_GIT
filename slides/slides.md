@@ -20,7 +20,6 @@ Rob van Loon
 
 .footnote[Cartoon van: <a href="https://xkcd.com/1597/">xkcd</a>, Creative Commons Licentie]
 
-*TODO: algmeen: meer presenter notes*
 ---
 
 # Wie ?
@@ -49,8 +48,8 @@ Wat gaan we in deze cursus doen?
 - GIT om een bijdrage te leveren
 	* code
 	* tickets en bugreports
-
-**TODO: ** aanvullen met de inhoud
+- GIT & GEO
+- Aan de slag!
 
 **TODO: ** slide over wat leer je / kun je na deze cursus
 
@@ -165,11 +164,20 @@ Alternatieven ?
 
 .center[.middle[![fig 1](img/distributed_fig01.jpg)]]
 
+???
+
+Repository op een centrale plek waar iedereen erbij kan (die erbij moet kunnen).
+Jij en collega's kunnen lezen en schrijven (pull en push)
+
 ---
 
 # Fetch
 
 .center[.middle[![fig 2](img/distributed_fig02.jpg)]]
+
+???
+
+Fetch: download een kopie van de repo naar je lokale PC
 
 ---
 
@@ -177,11 +185,19 @@ Alternatieven ?
 
 .center[.middle[![fig 3](img/distributed_fig03.jpg)]]
 
+???
+
+Maak een lokale werkkopie
+
 ---
 
 # Branches
 
 .center[.middle[![fig 4](img/distributed_fig04.jpg)]]
+
+???
+
+Later meer, maar zie het als verschillende versies naast elkaar (OTAP)
 
 ---
 
@@ -189,11 +205,21 @@ Alternatieven ?
 
 .center[.middle[![fig 5](img/distributed_fig05.jpg)]]
 
+???
+
+Stage: klaar zetten om te committen
+
+Commit: Verandering opslaan
+
 ---
 
 # Stage en commit (2)
 
 .center[.middle[![fig 6](img/distributed_fig06.jpg)]]
+
+???
+
+Niet alles hoeft in 1 commit
 
 ---
 
@@ -201,11 +227,19 @@ Alternatieven ?
 
 .center[.middle[![fig 7](img/distributed_fig07.jpg)]]
 
+???
+
+Teamladen werken ook gewoon door en publiceren nieuwe code
+
 ---
 
 # Fetch
 
 .center[.middle[![fig 8](img/distributed_fig08.jpg)]]
+
+???
+
+Voordat onze wijzigingen opgeslagen kunnen worden: eerst nieuwe items dowloaden
 
 ---
 
@@ -213,11 +247,19 @@ Alternatieven ?
 
 .center[.middle[![fig 9](img/distributed_fig09.jpg)]]
 
+???
+
+Nieuwe items komen in de origin/... terecht. Dus die moeten we ook naar onze werkdirectory kopieren
+
 ---
 
 # Push
 
 .center[.middle[![fig 10](img/distributed_fig10.jpg)]]
+
+???
+
+Push: publiceer
 
 ---
 
@@ -225,11 +267,21 @@ Alternatieven ?
 
 .center[.middle[![fig 11](img/distributed_fig11.jpg)]]
 
+???
+
+Origin is de standaard naam voor de repo
+
 ---
 
 # Remotes- Upstream: leesrechten
 
 .center[.middle[![fig 12](img/distributed_fig12.jpg)]]
+
+???
+
+Github: fork een repo en voeg hem daarna toe als upstream
+Op die manier kunnen alle wijzigingen die anderen aanbrengen makkelijk doorgevoerd worden.
+En kun je makkelijk een pull-request sturen. [**brug naar volgende slide**]
 
 ---
 
@@ -240,6 +292,7 @@ Alternatieven ?
 ???
 
 Dit was het overzicht van de verschillende termen en werkwijze: nu meer over de achterliggende techniek
+Verschillende termen misschien nog wat onduidelijk
 
 ---
 
@@ -259,6 +312,10 @@ class: center, middle
 - tag
 - log
 - blame
+
+???
+
+Kort overzicht: gaan we stap voor stap doornemen
 
 ---
 
@@ -286,6 +343,10 @@ Elke commit krijgt een unieke sha (handig als referentie).
 
 Denk ook aan het schrijven van een goede commit-message.
 
+???
+
+Elke commit krijgt een unieke code: de sha. Goede referentie!
+
 ---
 
 # Sha
@@ -293,6 +354,10 @@ Denk ook aan het schrijven van een goede commit-message.
 .middle[.center[<img src="http://static1.squarespace.com/static/518f5d62e4b075248d6a3f90/t/52bbec09e4b0749228bf8599/1388047372904/git-bingo.jpg?format=300w" style="width:37%"/>]]
 
 .footnote[Cartoon van: <a href="http://geek-and-poke.com/geekandpoke/2013/12/26/games-for-the-real-geeks">Geek and poke</a>, Creative Commons Licentie]
+
+???
+
+Maar de eerste 6 karaakters zijn vaak al goed genoeg
 
 ---
 
@@ -305,6 +370,10 @@ Denk ook aan het schrijven van een goede commit-message.
 -e regel: Beschrijvende tekst
 
 Schrijf een zinvolle commit-message (je bent jezelf later dankbaar).
+
+???
+
+Goede commitmessage, want... [next slide]
 
 ---
 
@@ -320,10 +389,13 @@ Schrijf een zinvolle commit-message (je bent jezelf later dankbaar).
 
 `git diff <file>` -- toont de wijzigingen in die file sinds de laatste commit
 
-
 Voor wijzigingen in de hele repo:
 
     git status
+
+???
+
+Wijzigingen zien
 
 ---
 
@@ -355,6 +427,12 @@ Maar ook:
 
 Let op: merge conflits
 
+???
+
+Merge al eerder gezien (bij binnenhalen wijzigingen van teamleden)
+
+Merge conflicts aangeduid met <<<<< en >>>>>
+
 ---
 
 # Cherrypick
@@ -367,11 +445,16 @@ TODO: leuk plaatje
 
 # Rebase / Squash
 
-Please don't
+
+Zoek de gemeenschappelijke voorouder en pas de delta's van de ene branch toe op de andere.
 
 --
 
-Zoek de gemeenschappelijke voorouder en pas de delta's van de ene branch toe op de andere.
+Please don't
+
+???
+
+Waarom niet doen? Je verliest hier een overzicht en het is lastig om terug te vinden wat uit welke branch kwam
 
 ---
 
@@ -399,6 +482,11 @@ Opties:
 # Blame
 
 Niet zo zeer om de schuld af te schuiven, maar wel goed om te achterhalen wie wat wanneer heeft gedaan.
+
+???
+
+Erg handig: wie heeft wat en wanneer verandert?
+
 ---
 
 class: center, middle
@@ -478,12 +566,21 @@ class: center, middle
 - backlog -> todo -> in progress -> test -> done
 - In de cloud: vaak ingebouwd
 
+???
+
+Makkelijk: tickets kunnen verwijzen naar commit en vv.
+Zeker scrum: goed versiebeheer nodig
+
 ---
 
 # Issuetracker
 
 - issues, bugs, wensen
 - discussies
+
+???
+
+Voor de cloudomgeving: ook hier makkelijk verwijzen naar commits
 
 ---
 
@@ -515,6 +612,10 @@ class: center, middle
 
 - Alternatief: GeoGig: shp, geojson, geopkg, sl, sqlserver, oracle
 
+???
+
+Persoonlijk heb ik geen ervaring met geogig. Het schijnt best goed te werken (ken alleen goede verhalen).
+
 ---
 
 # Github
@@ -522,6 +623,10 @@ class: center, middle
 Github ondersteunt geojson (WGS84) via leaflet en OSM ondergrond.
 
 .center[.middle[<img src="img/geo.jpg" style="width:70%"/>]]
+
+???
+
+Elke geojson wordt op github standaard als kaart afgebeeld.
 
 ---
 
@@ -540,6 +645,11 @@ class: center, middle
 5. Creeer een branch
 6. Doe een aanpassing + commit
 7. Merge
+
+???
+
+Nu zelf aan de slag.
+TODO: hoe pakken we dit handig aa?
 
 ---
 
