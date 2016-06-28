@@ -56,6 +56,14 @@ Wat gaan we in deze cursus doen?
 
 ---
 
+# Waarom ?
+
+.middle[.center[<img src="http://s3.media.squarespace.com/production/2129687/19317774/.a/6a00d8341d3df553ef017c330f2ae8970b-pi" style="width:37%;"/>]]
+
+.footnote[Cartoon van: <a href="http://geek-and-poke.com/geekandpoke/2012/11/3/simply-explained.html">Geek and poke</a>, Creative Commons Licentie]
+
+---
+
 # Wat ? - Wat is GIT ?
 
 Versiebeheer
@@ -129,14 +137,6 @@ Alternatieven ?
 .middle[.center[<img src="http://www.commitstrip.com/wp-content/uploads/2013/11/Strips-_Old-650-finalfinal1.jpg"/>]]
 
 .footnote[Cartoon van: <a href="http://www.commitstrip.com/en/2013/11/05/git-svn-ou/">Commitstrip</a>]
-
----
-
-Alternatieven ?
-
-.middle[.center[<img src="http://s3.media.squarespace.com/production/2129687/19317774/.a/6a00d8341d3df553ef017c330f2ae8970b-pi" style="width:37%;"/>]]
-
-.footnote[Cartoon van: <a href="http://geek-and-poke.com/geekandpoke/2012/11/3/simply-explained.html">Geek and poke</a>, Creative Commons Licentie]
 
 ---
 
