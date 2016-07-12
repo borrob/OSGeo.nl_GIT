@@ -441,7 +441,7 @@ Merge conflicts aangeduid met <<<<< en >>>>>
 
 # Cherrypick
 
-TODO: leuk plaatje
+.center[.middle[<img src="img/food-cherries-large.jpg" style="width:50%"/>]]
 
 "Ik vind die ene commit in die andere branch wel leuk, maar de rest hoeft ik niet."
 
