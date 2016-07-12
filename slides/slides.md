@@ -51,7 +51,11 @@ Wat gaan we in deze cursus doen?
 - GIT & GEO
 - Aan de slag!
 
-**TODO: ** slide over wat leer je / kun je na deze cursus
+## Wat kun je dan straks?
+
+- je hebt een idee over GIT
+- je bent niet meer bang om het te gebruiken
+- je weet waarvoor en hoe je GIT kunt gebruiken
 
 ---
 
