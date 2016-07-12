@@ -7,6 +7,8 @@ Rob van Loon
 
 @rob_vl // http://github.com/borrob
 
+TODO: toevoegen geschiedenis met bolletjes
+
 ---
 
 # Inhoud
