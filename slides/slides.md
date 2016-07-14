@@ -304,6 +304,24 @@ Verschillende termen misschien nog wat onduidelijk
 
 class: center, middle
 
+# Geschiedenis
+
+---
+
+# Commit na commit
+
+.center[.middle[![fig 13](img/geschiedenis_fig00.jpg)]]
+
+---
+
+# Branches
+
+.center[.middle[![fig 13](img/geschiedenis_fig01.jpg)]]
+
+---
+
+class: center, middle
+
 # Techniek
 
 ---
