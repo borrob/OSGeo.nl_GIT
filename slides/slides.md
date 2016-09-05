@@ -28,13 +28,18 @@ TODO: toevoegen geschiedenis met bolletjes
 
 Wie ben ik ?
 
-*TODO: voeg foto toe en een paar keywords over mijzelf*
-
 --
 
-Wie zijn jullie ?
+natuurkundige, fotograaf, GISser, coder
 
-- Voorstelronde
+
+[@rob_vl](https://twitter.com/@rob_vl)
+
+[photo_devil](https://www.flickr.com/photos/28224154@N04/)
+
+<img src="https://avatars1.githubusercontent.com/u/5207393?v=3&u=bc1f370de1e8a882e3ac5f4cf221102eb4cb7079&s=140">
+
+<img src="https://c1.staticflickr.com/3/2948/buddyicons/28224154@N04_l.jpg?1413027433" style="float:right;">
 
 ---
 
