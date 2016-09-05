@@ -123,6 +123,13 @@ samenwerken
     - [gitbook](https://www.gitbook.com)
     - [Read the docs](https://readthedocs.org)
 
+--
+
+- deze cursus
+
+    - [github](https://github.com/borrob/OSGeo.nl_GIT)
+    - Geschreven in markdown
+    - Markdown --> html slides via [REMARK](http://remarkjs.com/)
 ---
 
 # Alternatieven ?
