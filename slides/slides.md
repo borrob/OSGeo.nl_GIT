@@ -87,7 +87,7 @@ commit
 
 --
 
-branche
+branch
 
 - verschillende versies van hetzelfde
 - samenstellen releases
