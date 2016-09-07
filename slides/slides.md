@@ -330,6 +330,26 @@ class: center, middle
 
 ---
 
+# Merge branch
+
+.center[.middle[![fig 14](img/geschiedenis_fig02.jpg)]]
+
+--
+
+- Let op merge conflifts
+
+<<<<<<<<<<<<HEAD
+
+regels met het conflict
+
+=======
+
+regels met het conflict
+
+\>\>\>\>\>\>\>\> branch
+
+---
+
 class: center, middle
 
 # Techniek
